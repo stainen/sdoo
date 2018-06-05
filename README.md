@@ -1,1 +1,1 @@
-# sdoo
+# install-sdoo
